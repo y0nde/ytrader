@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import datetime as dt
-import tradetime
+from . import tradetime
 
 class Position:
 	def __init__(self,id,entry_t,symbol,direction,quantity):

@@ -1,6 +1,6 @@
 import datetime as dt
-from tradetime import Tradetime
-from book import Book
+from .tradetime import Tradetime
+from .book import Book
 
 
 class Trader:
