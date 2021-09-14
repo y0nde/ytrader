@@ -11,7 +11,7 @@ setup(
     name='ytrader',
     version='0.1',
     description='Templete classes for system trader.',
-    url='https://github.com/whatever/whatever',
+    url='https://github.com/YONDE927/ytrader',
     author='yonde1202(Yuta Harada)',
     author_email='svyuta1202@gmail.com',
     license='MIT',

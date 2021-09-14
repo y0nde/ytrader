@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: ytrader
+Version: 0.1
+Summary: Templete classes for system trader.
+Home-page: https://github.com/YONDE927/ytrader
+Author: yonde1202(Yuta Harada)
+Author-email: svyuta1202@gmail.com
+License: MIT
+Keywords: trade trading finance
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Financial and Insurance Industry
+Classifier: Topic :: Office/Business :: Financial :: Investment
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6, <4
+License-File: LICENSE.txt
+
+UNKNOWN
+
